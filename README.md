@@ -1,4 +1,4 @@
-# Get Ipaddress and Hostname of Website
+# Get Ip Address and Hostname of Website
 
 
 
