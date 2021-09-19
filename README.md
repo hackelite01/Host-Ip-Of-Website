@@ -16,6 +16,11 @@ None
 
 Execute `python3 Hostname_IPaddress.py`
 
+### Screenshot/GIF showing the sample use of the script
+
+
+
+![Screenshot of the Hostname_IPaddress.py file](Screenshot.png)
 
 ## *Author Name*
 
