@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<a href="https://t.me/hackelite01"><img title="Made in INDIA" src="https://img.shields.io/badge/Host-Ip-Of-Website-green.svg"></a>
+<a href="https://t.me/hackelite01"><img title="Made in INDIA" src="https://img.shields.io/badge/HostIpOfWebsite-green.svg"></a>
 
 <a href="https://t.me/hackelite01"><img title="Version" src="https://img.shields.io/badge/Version-green.svg?style=flat-square"></a>
 
